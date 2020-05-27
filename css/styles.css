@@ -1,5 +1,6 @@
 body{
-  font-family: "Montserrat";text-align: center;
+  font-family: "Montserrat";
+  text-align: center;
 }
 h1,h2,h3{
   font-weight: 900;
@@ -121,6 +122,8 @@ p{
   .title-image{
     position: static;
     transform: rotate(0);
+  }
+  #title .container-fluid{
     text-align: center;
   }
 
